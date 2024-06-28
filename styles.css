@@ -28,17 +28,6 @@ body {
   background: linear-gradient(to bottom, #36373c, #000);
   color: #fff;
 }
-img {
-  margin: 10px;
-  width: 150px;
-  height: auto;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-}
-img:hover {
-  border-color: #777;
-}
 .title {
   grid-row: 2;
   grid-column: 2;
