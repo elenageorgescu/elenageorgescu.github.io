@@ -6,15 +6,15 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Cormorant Garamond", serif;
-  font-weight: 300;
+  font-weight: normal;
   font-style: normal;
-  font-size: 16px;
+  font-size: 20px;
   background-color: #36373c;
 }
 
 .container {
   width: 100%;
-  max-width: 860px;
+  max-width: 1200px;
   margin: 0 auto;
   background-color: #eee;
   padding-bottom: 80px;
@@ -63,11 +63,13 @@ h2 {
   left: 0;
   background: linear-gradient(to right, #000, transparent);
 }
+
 .avatar img {
   height: 100%;
   width: 100%;
   object-fit: cover;
 }
+
 
 address,
 .hero-content {
