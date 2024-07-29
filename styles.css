@@ -10,6 +10,7 @@ body {
   font-style: normal;
   font-size: 20px;
   background-color: #36373c;
+  color: #fff;
 }
 
 .container {
@@ -17,6 +18,7 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   background-color: #eee;
+  color: #222;
   padding-bottom: 80px;
   box-shadow: rgba(0, 0, 0, 0.8) 2px 2px 18px;
 }
@@ -95,7 +97,7 @@ a:link,
 a:active,
 a:hover,
 a:visited {
-  color: #36373c;
+  color: #222;
   text-decoration: none;
   border-bottom: 1px solid #ffd723;
   background-color: transparent;
@@ -134,7 +136,7 @@ h3 {
 ul {
   margin: 0;
   padding: 0 80px 0 96px;
-  color: #36373c;
+  color: #222;
 }
 li {
   padding: 8px 0 8px 18px;
@@ -187,7 +189,7 @@ footer {
 }
 footer span {
   display: block;
-  color: #757575;
+  color: #ddd;
   text-shadow: rgba(0, 0, 0, 0.5) 0px 1px 2px;
   padding: 12px 80px 86px 112px;
 }
